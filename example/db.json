@@ -10,5 +10,11 @@
       "title": "Second Article",
       "content": "This is also an example."
     }
+
+    {
+      "id": 3,
+      "title": "Third one",
+      "content": "This should be THE example that I finally get whats going on here! :("
+    }
   ]
 }
